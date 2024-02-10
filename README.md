@@ -52,7 +52,7 @@ import { Phaser } from "phaser";
 
 ## Template Project Structure
 
-We have provided a default project structure to get you started. This is as follows:
+This is the default project structure to get you started. This is as follows:
 
 - `.github/workflows` - Contains the GitHub Action for deploying the project.
 - `.vscode` - Contains the Visual Studio Code settings for a Deno-based project.
