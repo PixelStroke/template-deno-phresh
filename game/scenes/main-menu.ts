@@ -1,4 +1,3 @@
-// MainMenu.ts
 /// <reference types="../phaser.d.ts" />
 
 import { Cameras, GameObjects, Input, Scene } from "phaser";
