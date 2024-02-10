@@ -1,4 +1,4 @@
-# Phaser Deno Fresh TypeScript Template
+# A Phaser TypeScript Template for Deno and Fresh
 
 This is a Phaser 3 project template that leverages Deno, Fresh, and esbuild for an efficient development experience. It integrates esbuild for fast bundling, utilizes Fresh for Deno-based modern web development, and supports TypeScript out of the box. The template also features hot-reloading for streamlined development cycles and includes scripts to generate optimized, production-ready builds. TypeScript is supported out-of-the box without any additional configuration.
 
