@@ -1,4 +1,4 @@
-/// <reference types="https://cdn.jsdelivr.net/npm/phaser@3.70.0/types/phaser.d.ts" />
+/// <reference types="../phaser.d.ts" />
 
 import Phaser from "phaser";
 import { Direction, Position } from "../types.ts";

@@ -14,20 +14,6 @@ export enum Direction {
   vertical = "vertical",
   horizontal = "horizontal",
 }
-
-export interface AnimationProps {
-  amplitude?: number;
-  smallAmplitude?: number;
-  frequency?: number;
-  fastFrequency?: number;
-  originalY?: number;
-  heartbeatFrequency?: number;
-  minScale?: number;
-  maxScale?: number;
-  scaleRange?: number;
-  baseScale?: number;
-}
-
 export interface OscillationAnimationProps {
   amplitude: number;
   frequency: number;
