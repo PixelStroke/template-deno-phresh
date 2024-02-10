@@ -53,7 +53,7 @@ export class OscillationAnimation implements AnimationStrategy {
     const fastOscillation = this.smallAmplitude *
       Math.sin(this.fastFrequency * time);
     if (this.direction === Direction.horizontal) {
-      gameObject.y = this.position.x + mainOscillation +
+      gameObject.x = this.position.x + mainOscillation +
         fastOscillation;
     } else {
       gameObject.y = this.position.y + mainOscillation +
