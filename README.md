@@ -119,7 +119,7 @@ If you want to add more tasks, modify existing one, or add third-party libraries
 If you want to customize your build, such as adding plugin (i.e. for loading CSS or fonts), you can modify the `build.ts` file for cross-project changes, or you can modify and/or create new configuration files and target them in specific deno tasks inside of `deno.json`. Please see the [esbuild documentation](https://esbuild.github.io/api/) for more information.
 
 ## Credit
-The following template [ESbuild ESM Template]('https://github.com/phaserjs/template-esbuild-ts') was used as inspiration for this template. Additional assets were created by me (Shon Thomas), and are free to use.
+The following template [ESbuild ESM Template](https://github.com/phaserjs/template-esbuild-ts) was used as inspiration for this template. Additional assets were created by me (Shon Thomas), and are free to use.
 
 All Phaser logos and character trademarks are &copy; 2011-2024 Phaser Studio Inc. All rights reserved.
 All Deno logos and character trademarks are &copy; 2018-2024 Deno Land Inc. All rights reserved.
